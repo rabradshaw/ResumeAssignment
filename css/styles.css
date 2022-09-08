@@ -1,0 +1,96 @@
+/*----
+name:Rodney Bradshaw
+date: 9/7/2022
+------*/
+
+/*---main-------*/
+body{
+    margin:0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    background-color: antiquewhite;
+    color:rgb(51, 8, 131);
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+}
+img {
+    width: 250px;
+
+}
+#feature {
+    margin-left: 20px;
+
+}
+#feature_border{
+    margin-top: solid blue 1px;
+}
+#feature_text {
+    margin-left: 20px;
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+    font-weight: 1.5em;
+}
+
+h2 {
+    font-family: 'Comfortaa', cursive;
+
+}
+a {
+    text-decoration: none;
+}
+
+/*----Projects section------*/
+
+.button_style {
+    background-color:aquamarine;
+    color: rgb(124, 17, 3);
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 0;
+}
+.button_style:hover {
+    background-color: aqua;
+    color:black;
+}
+
+section {
+    border-bottom: solid 1px blue;
+}
+.project {
+    text-align: center;
+    border-top: solid 1px blue;
+}
+
+/*----Work Experience------*/
+#work_experience {
+    margin-top: 10px;
+    margin-left: 15px;
+    background-color: blanchedalmond; 
+}
+.experience {
+    padding-left: 10px;
+}
+/*----Education------*/
+#education {
+    margin-top: 10px;
+    background-image: conic-gradient(rgb(163, 42, 42), rgba(255, 255, 9, 0.925), rgb(1, 160, 1));
+    margin-left: 15px;  
+}
+
+/*----Footer area------*/
+footer {
+    text-align: center;
+    background-color: cornsilk;
+    margin-top: 10px;
+    padding: 0;
+    color: rgb(51, 8, 131);
+}
+.social {
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
